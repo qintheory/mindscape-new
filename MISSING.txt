@@ -1,4 +1,10 @@
 The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
 
 fonts/HelveticaNowMicro-Bold.ttf
+fonts/HelveticaNowMicro-BoldItalic.ttf
+fonts/HelveticaNowMicro-ExtBdIta.ttf
+fonts/HelveticaNowMicro-ExtLtIta.ttf
+fonts/HelveticaNowMicro-ExtraBold.ttf
+fonts/HelveticaNowMicro-ExtraLight.ttf
 fonts/HelveticaNowMicro-Light.ttf
+fonts/HelveticaNowMicro-Regular.ttf
